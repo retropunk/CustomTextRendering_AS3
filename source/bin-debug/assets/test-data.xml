@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+	<section>
+		<landing>
+			<pagetitle><![CDATA[Large Page Title]]></pagetitle>
+			<subtitle><![CDATA[subtitle can go here]]></subtitle>
+			<bodytext><![CDATA[<b>Company bold text</b> can go here, when you just enter fake copy in <b>rapid-fire fashion</b>, \nyou don't know what it really feels like to fill out that form.]]></bodytext>
+			<space>10</space>
+			<subtitle><![CDATA[1st set of bullets]]></subtitle>
+			<bullet><![CDATA[As soon as you can, use real and relevant words]]></bullet>
+			<bullet><![CDATA[If your site or application requires data input, enter the real deal, and actually\ntype in text]]></bullet>
+			<bullet><![CDATA[If it's a name, type a real name - <b>Flash is awesome</b>]]></bullet>
+			<space>20</space>
+			<subtitle><![CDATA[2nd set of bullets]]></subtitle>
+			<bullet><![CDATA[Do as your customers do and you'll understand them better]]></bullet>
+			<bullet><![CDATA[When you really understand them better, and feel what they feel, you'll build a \nbetter interface]]></bullet>
+			<bullet><![CDATA[Also with bullet text use have have sub bullets:]]></bullet>
+			<subbullet><![CDATA[Sub bullet text can sometimes need superscript<sup>2</sup>]]></subbullet>
+		</landing>
+	</section>
+</data>
